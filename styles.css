@@ -1,0 +1,49 @@
+h1{
+  color:aquamarine
+  
+}
+h2{
+  color:blue
+}
+
+h3{
+  color:greenyellow
+}
+
+p{
+  color: red
+
+}
+
+table{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+ul{
+  list-style-type: none;
+  padding: 0;
+  color: yellow
+
+
+}
+
+ol{
+  color: orangered
+}
+
+h1:hover{
+  color:red
+}
+h2:hover{
+  color:chocolate
+}
+
+h3:hover{
+  color:darksalmon
+}
+
+img{
+  border-color:dodgerblue;
+  border-style: solid
+}
